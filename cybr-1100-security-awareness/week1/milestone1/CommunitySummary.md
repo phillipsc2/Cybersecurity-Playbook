@@ -1,0 +1,5 @@
+Name of community: Zane Trace Middle School
+
+Why security awareness is important to them: First off Zane Trace is the school I went to for all my life and it is where I had several IT internsips which is why I chose it specifically. It is my opinion that the lessons of Internet safety which were beaten into my generation are now slowly being forgotten and less emphasized as the years go by. I think education on nettiquete and Internet safety is important and there is really never too much. Online dangers like predators and cyberbullying only multiply in severity as time goes on, and with the advent of AI there are now advanced cyberbullying methods that are freely available to angry kids. On top of this it is good for anyone to be taught good password measures early on in life.
+
+How I would tailor training measures to their needs: I would try to avoid long speeches and lectures. That is famously the #1 way to lose the attention of children. I would try to keep it to the point and use informal (appropriate) language in places. 
